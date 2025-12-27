@@ -1,0 +1,982 @@
+[
+    {
+        "category": "Baby Care",
+        "products": [
+            {
+                "original_name": "Aptamil 1 First Infant Milk from Birth 800g",
+                "cleaned_name": "Aptamil 1 First Infant Milk From Birth 800G",
+                "brand": "Aptamil",
+                "unit": "800g",
+                "is_multipack": true,
+                "slug": "aptamil-1-first-infant-milk-from-birth-800g-800g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5051594006812/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Cow & Gate First Infant Milk Powder Stage 1 0-6 Months",
+                "cleaned_name": "Cow & Gate First Infant Milk Powder Stage 1 0-6 Months",
+                "brand": "Cow & Gate",
+                "unit": "800g",
+                "is_multipack": true,
+                "slug": "cow-gate-first-infant-milk-powder-stage-1-0-6-months-800g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5051594006874/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Cow & Gate Follow On Milk Powder Stage 2 6-12 Months",
+                "cleaned_name": "Cow & Gate Follow On Milk Powder Stage 2 6-12 Months",
+                "brand": "Cow & Gate",
+                "unit": "800g",
+                "is_multipack": true,
+                "slug": "cow-gate-follow-on-milk-powder-stage-2-6-12-months-800g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5051594006881?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Aptamil 2 Follow On Milk 6-12 Months 800g",
+                "cleaned_name": "Aptamil 2 Follow On Milk 6-12 Months 800G",
+                "brand": "Aptamil",
+                "unit": "800g",
+                "is_multipack": true,
+                "slug": "aptamil-2-follow-on-milk-6-12-months-800g-800g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5051594006829/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Cow & Gate Growing Up Milk Powder Stage 3 1-2 Years",
+                "cleaned_name": "Cow & Gate Growing Up Milk Powder Stage 3 1-2 Years",
+                "brand": "Cow & Gate",
+                "unit": "800g",
+                "is_multipack": true,
+                "slug": "cow-gate-growing-up-milk-powder-stage-3-1-2-years-800g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5051594006867?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Aptamil Creamed Porridge 4-6+ Months 125g",
+                "cleaned_name": "Aptamil Creamed Porridge 4-6+ Months 125G",
+                "brand": "Aptamil",
+                "unit": "125g",
+                "is_multipack": true,
+                "slug": "aptamil-creamed-porridge-4-6-months-125g-125g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5051594008281?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Aptamil Creamed Banana Porridge 4-6+ Months 125g",
+                "cleaned_name": "Aptamil Creamed Banana Porridge 4-6+ Months 125G",
+                "brand": "Aptamil",
+                "unit": "125g",
+                "is_multipack": true,
+                "slug": "aptamil-creamed-banana-porridge-4-6-months-125g-125g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5051594008304?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Cow & Gate Toddler Milk Powder Stage 4 Fortified Milk Drink from 2 Years 800g",
+                "cleaned_name": "Cow & Gate Toddler Milk Powder Stage 4 Fortified Milk Drink From 2 Years 800G",
+                "brand": "Cow & Gate",
+                "unit": "800g",
+                "is_multipack": true,
+                "slug": "cow-gate-toddler-milk-powder-stage-4-fortified-milk-drink-from-2-years-800g-800g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5051594001930/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Aptamil Toddler Milk 3 1+ Year 800g",
+                "cleaned_name": "Aptamil Toddler Milk 3 1+ Year 800G",
+                "brand": "Aptamil",
+                "unit": "800g",
+                "is_multipack": true,
+                "slug": "aptamil-toddler-milk-3-1-year-800g-800g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5051594006805/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Aptamil Pre-Measured Tabs 1 From Birth First Infant Milk 552g",
+                "cleaned_name": "Aptamil Pre-Measured Tabs 1 From Birth First Infant Milk 552G",
+                "brand": "Aptamil",
+                "unit": "552g",
+                "is_multipack": true,
+                "slug": "aptamil-pre-measured-tabs-1-from-birth-first-infant-milk-552g-552g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5051594007659?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Heinz Peach, Mango, Banana & Apple Fruit Pouch 100g",
+                "cleaned_name": "Heinz Peach, Mango, Banana & Apple Fruit 100G",
+                "brand": "Heinz",
+                "unit": "100g",
+                "is_multipack": true,
+                "slug": "heinz-peach-mango-banana-apple-fruit-100g-100g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5000157079978/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Heinz Strawberry, Banana, Raspberry & Apple Fruit Pouch 100g",
+                "cleaned_name": "Heinz Strawberry, Banana, Raspberry & Apple Fruit 100G",
+                "brand": "Heinz",
+                "unit": "100g",
+                "is_multipack": true,
+                "slug": "heinz-strawberry-banana-raspberry-apple-fruit-100g-100g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5000157079947/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Heinz Apple & Strawberry Fruit Pouch 100g",
+                "cleaned_name": "Heinz Apple & Strawberry Fruit 100G",
+                "brand": "Heinz",
+                "unit": "100g",
+                "is_multipack": true,
+                "slug": "heinz-apple-strawberry-fruit-100g-100g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5000157140081/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Infacol (Simeticone) Colic Relief Drops 55ml",
+                "cleaned_name": "Infacol (Simeticone) Colic Relief Drops 55Ml",
+                "brand": "Infacol",
+                "unit": "55ml",
+                "is_multipack": true,
+                "slug": "infacol-simeticone-colic-relief-drops-55ml-55ml",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5017007600848/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Aptamil Advanced 1 First Infant Baby Milk Powder 800g",
+                "cleaned_name": "Aptamil Advanced 1 First Infant Baby Milk Powder 800G",
+                "brand": "Aptamil",
+                "unit": "800g",
+                "is_multipack": true,
+                "slug": "aptamil-advanced-1-first-infant-baby-milk-powder-800g-800g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/8718117611942/1?tr=w-192,h-192"
+            }
+        ]
+    },
+    {
+        "category": "Biscuits Snacks Sweets",
+        "products": [
+            {
+                "original_name": "Celebrations Tub 500g",
+                "cleaned_name": "Celebrations 500G",
+                "brand": "Unknown",
+                "unit": "500g",
+                "is_multipack": true,
+                "slug": "celebrations-500g-500g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5000159570701?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Quality Street Tub 550g",
+                "cleaned_name": "Quality Street 550G",
+                "brand": "Unknown",
+                "unit": "550g",
+                "is_multipack": true,
+                "slug": "quality-street-550g-550g",
+                "image": "https://media.wegetanystock.co.uk/images/products/43TCvIhYSkqaa4Aozn0ssP8jpGDaywXi5oppGwP9.png?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Skittles Giants Vegan Chewy Sweets Fruit Flavoured Pouch Bag 132g",
+                "cleaned_name": "Skittles Giants Vegan Chewy Sweets Fruit Flavoured 132G",
+                "brand": "Skittles",
+                "unit": "132g",
+                "is_multipack": true,
+                "slug": "skittles-giants-vegan-chewy-sweets-fruit-flavoured-132g-132g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/4009900546164/913?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Cadbury Heroes Tub 550g",
+                "cleaned_name": "Cadbury Heroes 550G",
+                "brand": "Cadbury",
+                "unit": "550g",
+                "is_multipack": true,
+                "slug": "cadbury-heroes-550g-550g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/7622201734848/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Skittles Squishy Cloudz Crazy Sour Sweets Bag 94g",
+                "cleaned_name": "Skittles Squishy Cloudz Crazy Sour Sweets 94G",
+                "brand": "Skittles",
+                "unit": "94g",
+                "is_multipack": true,
+                "slug": "skittles-squishy-cloudz-crazy-sour-sweets-94g-94g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/4009900538589?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Sour Patch Kids Cola Flavour Sweets 130g",
+                "cleaned_name": "Sour Patch Kids Cola Flavour Sweets 130G",
+                "brand": "Unknown",
+                "unit": "130g",
+                "is_multipack": true,
+                "slug": "sour-patch-kids-cola-flavour-sweets-130g-130g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/7622202008719/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Skittles Giants Gooey Vegan Chewy Sweets Fruit Flavoured Pouch Bag 125g",
+                "cleaned_name": "Skittles Giants Gooey Vegan Chewy Sweets Fruit Flavoured 125G",
+                "brand": "Skittles",
+                "unit": "125g",
+                "is_multipack": true,
+                "slug": "skittles-giants-gooey-vegan-chewy-sweets-fruit-flavoured-125g-125g",
+                "image": "https://media.wegetanystock.co.uk/images/products/X1gXKvFIA6RZQfbCRwV4DSaGI3CgyzTDMt67dvMn.png?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Skittles Dessert Flavoured Pouch 152g",
+                "cleaned_name": "Skittles Dessert Flavoured 152G",
+                "brand": "Skittles",
+                "unit": "152g",
+                "is_multipack": true,
+                "slug": "skittles-dessert-flavoured-152g-152g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/4009900544788/913?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Rowntree's Randoms Fizzy Cactuz Sweets Sharing Bag 130g",
+                "cleaned_name": "Rowntree'S Randoms Fizzy Cactuz Sweets Sharing 130G",
+                "brand": "Rowntree'S",
+                "unit": "130g",
+                "is_multipack": true,
+                "slug": "rowntrees-randoms-fizzy-cactuz-sweets-sharing-130g-130g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/8593893789449/913?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Lotus Biscoff 250g",
+                "cleaned_name": "Lotus Biscoff 250G",
+                "brand": "Lotus",
+                "unit": "250g",
+                "is_multipack": true,
+                "slug": "lotus-biscoff-250g-250g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5410126716016/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Fry's Turkish Delight Chocolate Bar 3 Pack 153g",
+                "cleaned_name": "Fry'S Turkish Delight Chocolate Bar 3 153G",
+                "brand": "Turkish",
+                "unit": "153g",
+                "is_multipack": true,
+                "slug": "frys-turkish-delight-chocolate-bar-3-153g-153g",
+                "image": "https://media.wegetanystock.co.uk/images/products/TGzsbeEfMDK0IKdqJuwjC5Ve8tCSwSveEwxURVAv.jpg?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Mentos Berries Flavour Chewy Dragees 140g",
+                "cleaned_name": "Mentos Berries Flavour Chewy Dragees 140G",
+                "brand": "Mentos",
+                "unit": "140g",
+                "is_multipack": true,
+                "slug": "mentos-berries-flavour-chewy-dragees-140g-140g",
+                "image": "https://media.wegetanystock.co.uk/images/products/PfymqROnnFLxGUMs4E76y2ap7gyPLRcjMj3j8jNT.jpg?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Mentos Fanta Orange Flavour Chewy Dragees 140g",
+                "cleaned_name": "Mentos Fanta Orange Flavour Chewy Dragees 140G",
+                "brand": "Mentos",
+                "unit": "140g",
+                "is_multipack": true,
+                "slug": "mentos-fanta-orange-flavour-chewy-dragees-140g-140g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/8723400828655?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Mentos Fruit Mix Flavour Chewy Dragees 140g",
+                "cleaned_name": "Mentos Fruit Mix Flavour Chewy Dragees 140G",
+                "brand": "Mentos",
+                "unit": "140g",
+                "is_multipack": true,
+                "slug": "mentos-fruit-mix-flavour-chewy-dragees-140g-140g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/8723400828679/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Skittles Giants Vegan Chewy Sour Sweets Fruit Flavoured Pouch Bag 132g",
+                "cleaned_name": "Skittles Giants Vegan Chewy Sour Sweets Fruit Flavoured 132G",
+                "brand": "Skittles",
+                "unit": "132g",
+                "is_multipack": true,
+                "slug": "skittles-giants-vegan-chewy-sour-sweets-fruit-flavoured-132g-132g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/4009900546140/913?tr=w-192,h-192"
+            }
+        ]
+    },
+    {
+        "category": "Drinks",
+        "products": [
+            {
+                "original_name": "Fanta Fruit Twist 330ml",
+                "cleaned_name": "Fanta Fruit Twist 330Ml",
+                "brand": "Fanta",
+                "unit": "330ml",
+                "is_multipack": true,
+                "slug": "fanta-fruit-twist-330ml-330ml",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5449000042101?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Fanta Pineapple & Grapefruit 330ml",
+                "cleaned_name": "Fanta Pineapple & Grapefruit 330Ml",
+                "brand": "Fanta",
+                "unit": "330ml",
+                "is_multipack": true,
+                "slug": "fanta-pineapple-grapefruit-330ml-330ml",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5449000089359/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Prime Hydration Barcelona Flavour 500ml",
+                "cleaned_name": "Prime Hydration Barcelona Flavour 500Ml",
+                "brand": "Prime",
+                "unit": "500ml",
+                "is_multipack": true,
+                "slug": "prime-hydration-barcelona-flavour-500ml-500ml",
+                "image": "https://media.wegetanystock.co.uk/images/products/eHctfpKeoHSnzcCCUwrDg1WVb0qOFK8QfjYutjTN.png?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Prime Hydration Snowball Slushy Flavour 500ml",
+                "cleaned_name": "Prime Hydration Snowball Slushy Flavour 500Ml",
+                "brand": "Prime",
+                "unit": "500ml",
+                "is_multipack": true,
+                "slug": "prime-hydration-snowball-slushy-flavour-500ml-500ml",
+                "image": "https://media.wegetanystock.co.uk/images/products/7Qfu2079p6pPQyZ49X8dwL51Ty1xo5kOqITCxMyB.png?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Prime Hydration Juventus Flavour 500ml",
+                "cleaned_name": "Prime Hydration Juventus Flavour 500Ml",
+                "brand": "Prime",
+                "unit": "500ml",
+                "is_multipack": true,
+                "slug": "prime-hydration-juventus-flavour-500ml-500ml",
+                "image": "https://media.wegetanystock.co.uk/images/products/q3cE73ktgZW6uvO6qb0PruMEPNXc9jA2UwHBFb8v.png?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Sprite 330ml",
+                "cleaned_name": "Sprite 330Ml",
+                "brand": "Sprite",
+                "unit": "330ml",
+                "is_multipack": true,
+                "slug": "sprite-330ml-330ml",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5449000014535/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Fanta Lemon 330ml",
+                "cleaned_name": "Fanta Lemon 330Ml",
+                "brand": "Fanta",
+                "unit": "330ml",
+                "is_multipack": true,
+                "slug": "fanta-lemon-330ml-330ml",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5449000006004?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Prime Hydration Ice Blue Chill Flavour 500ml",
+                "cleaned_name": "Prime Hydration Ice Blue Chill Flavour 500Ml",
+                "brand": "Prime",
+                "unit": "500ml",
+                "is_multipack": true,
+                "slug": "prime-hydration-ice-blue-chill-flavour-500ml-500ml",
+                "image": "https://media.wegetanystock.co.uk/images/products/wayGuPs5B6qtBXoDazndQDH5RoyVXrdQJdWTx7uE.png?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Prime Hydration Ice Orange Flavour 500ml",
+                "cleaned_name": "Prime Hydration Ice Orange Flavour 500Ml",
+                "brand": "Prime",
+                "unit": "500ml",
+                "is_multipack": true,
+                "slug": "prime-hydration-ice-orange-flavour-500ml-500ml",
+                "image": "https://media.wegetanystock.co.uk/images/products/rml7Ae5KJOcOVviPISjGE8VpKE5Q5MwsrAveH8Re.png?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Prime Hydration Ice Red Chill Flavour 500ml",
+                "cleaned_name": "Prime Hydration Ice Red Chill Flavour 500Ml",
+                "brand": "Prime",
+                "unit": "500ml",
+                "is_multipack": true,
+                "slug": "prime-hydration-ice-red-chill-flavour-500ml-500ml",
+                "image": "https://media.wegetanystock.co.uk/images/products/XvT0X9463jkC7pe1CAMhKwyGroDCbmgwqRZQuevw.png?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Prime Hydration Collector Series Flavour Pm £1.79 500ml",
+                "cleaned_name": "Prime Hydration Collector Series Flavour 500Ml",
+                "brand": "Prime",
+                "unit": "500ml",
+                "is_multipack": true,
+                "slug": "prime-hydration-collector-series-flavour-500ml-500ml",
+                "image": "https://media.wegetanystock.co.uk/images/products/FbKl9BvmcZTv8la0JjtQ3NW7DxW8FVNIh95NC0wF.png?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Prime Hydration Ice Blue Chill Flavour PMP £1.79 500ml",
+                "cleaned_name": "Prime Hydration Ice Blue Chill Flavour 500Ml",
+                "brand": "Prime",
+                "unit": "500ml",
+                "is_multipack": true,
+                "slug": "prime-hydration-ice-blue-chill-flavour-500ml-500ml",
+                "image": "https://media.wegetanystock.co.uk/images/products/GvMeCjRkLdzLzGQx4uEgtQDsqKE01tUtuocxaEzn.png?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Prime Hydration Ice Orange Flavour PMP £1.79 500ml",
+                "cleaned_name": "Prime Hydration Ice Orange Flavour 500Ml",
+                "brand": "Prime",
+                "unit": "500ml",
+                "is_multipack": true,
+                "slug": "prime-hydration-ice-orange-flavour-500ml-500ml",
+                "image": "https://media.wegetanystock.co.uk/images/products/Y4aokj2h2sThcKHnmf7sp77QvAJ8l3t82bpmS49K.png?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Prime Hydration Ice Red Chill Flavour PMP £1.79 500ml",
+                "cleaned_name": "Prime Hydration Ice Red Chill Flavour 500Ml",
+                "brand": "Prime",
+                "unit": "500ml",
+                "is_multipack": true,
+                "slug": "prime-hydration-ice-red-chill-flavour-500ml-500ml",
+                "image": "https://media.wegetanystock.co.uk/images/products/axQPu6TFXpeWCbeF1FckWg6JivdTfHHmsjg6b8T4.png?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Prime Ealing Haaland Hydration Pm £1.79 500ml",
+                "cleaned_name": "Prime Ealing Haaland Hydration 500Ml",
+                "brand": "Prime",
+                "unit": "500ml",
+                "is_multipack": true,
+                "slug": "prime-ealing-haaland-hydration-500ml-500ml",
+                "image": "https://media.wegetanystock.co.uk/images/products/tBMl43WDKTJvJb7lomNWjpvNNZi5d2i1z2Rd9qqe.png?tr=w-192,h-192"
+            }
+        ]
+    },
+    {
+        "category": "Frozen Foods",
+        "products": [
+            {
+                "original_name": "Kelly's Cornish Candyfloss Ice Cream 4.5ltr",
+                "cleaned_name": "Kelly'S Cornish Candyfloss Ice Cream 4.5Ltr",
+                "brand": "Kelly'S",
+                "unit": "4.5ltr",
+                "is_multipack": false,
+                "slug": "kellys-cornish-candyfloss-ice-cream-45ltr-45ltr",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5026646452503?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Kelly's Cornish Coffee Latte Ice Cream 4.5ltr",
+                "cleaned_name": "Kelly'S Cornish Coffee Latte Ice Cream 4.5Ltr",
+                "brand": "Kelly'S",
+                "unit": "4.5ltr",
+                "is_multipack": false,
+                "slug": "kellys-cornish-coffee-latte-ice-cream-45ltr-45ltr",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5026646451001?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Americana 48 Gourmet Burger Buns 89g",
+                "cleaned_name": "Americana 48 Gourmet Burger Buns 89G",
+                "brand": "Gourmet",
+                "unit": "89g",
+                "is_multipack": true,
+                "slug": "americana-48-gourmet-burger-buns-89g-89g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5037173101710?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Americana 5” Seeded Burger Buns 89g",
+                "cleaned_name": "Americana 5” Seeded Burger Buns 89G",
+                "brand": "Unknown",
+                "unit": "89g",
+                "is_multipack": true,
+                "slug": "americana-5-seeded-burger-buns-89g-89g",
+                "image": "https://www.wegetanystock.com/icons/512.png"
+            },
+            {
+                "original_name": "Americana Soft Floured Baps 4.272kg",
+                "cleaned_name": "Americana Soft Floured Baps 4.272Kg",
+                "brand": "Unknown",
+                "unit": "4.272kg",
+                "is_multipack": false,
+                "slug": "americana-soft-floured-baps-4272kg-4272kg",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5037173000068/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Aunt Bessie's 12 Golden Yorkshires Perfect for Everyday 220g",
+                "cleaned_name": "Aunt Bessie'S 12 Golden Yorkshires Perfect For Everyday 220G",
+                "brand": "Aunt Bessie'S",
+                "unit": "220g",
+                "is_multipack": true,
+                "slug": "aunt-bessies-12-golden-yorkshires-perfect-for-everyday-220g-220g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5000227991766/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Aunt Bessie's 3” Yorkshire Puddings (60 per case)",
+                "cleaned_name": "Aunt Bessie'S 3” Yorkshire Puddings (60 Per Case)",
+                "brand": "Aunt Bessie'S",
+                "unit": "",
+                "is_multipack": false,
+                "slug": "aunt-bessies-3-yorkshire-puddings-60-per-case",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5000227994019/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Aunt Bessie's 8 Hearty Dumplings 390g",
+                "cleaned_name": "Aunt Bessie'S 8 Hearty Dumplings 390G",
+                "brand": "Aunt Bessie'S",
+                "unit": "390g",
+                "is_multipack": true,
+                "slug": "aunt-bessies-8-hearty-dumplings-390g-390g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5000227991667?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Aunt Bessie's Apple Crumble 500g",
+                "cleaned_name": "Aunt Bessie'S Apple Crumble 500G",
+                "brand": "Aunt Bessie'S",
+                "unit": "500g",
+                "is_multipack": true,
+                "slug": "aunt-bessies-apple-crumble-500g-500g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5000227500937?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Aunt Bessie's Family Apple Pie 550g",
+                "cleaned_name": "Aunt Bessie'S Family Apple Pie 550G",
+                "brand": "Aunt Bessie'S",
+                "unit": "550g",
+                "is_multipack": true,
+                "slug": "aunt-bessies-family-apple-pie-550g-550g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5000227503235?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Aunt Bessie's Jam Roly Poly 300g",
+                "cleaned_name": "Aunt Bessie'S Jam Roly Poly 300G",
+                "brand": "Aunt Bessie'S",
+                "unit": "300g",
+                "is_multipack": true,
+                "slug": "aunt-bessies-jam-roly-poly-300g-300g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5000227994644?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Aunt Bessie's Sticky Toffee Sponge 300g",
+                "cleaned_name": "Aunt Bessie'S Sticky Toffee Sponge 300G",
+                "brand": "Aunt Bessie'S",
+                "unit": "300g",
+                "is_multipack": true,
+                "slug": "aunt-bessies-sticky-toffee-sponge-300g-300g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5000227511551?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Aviko 7mm Super Crunch 2.27kg",
+                "cleaned_name": "Aviko 7Mm Super Crunch 2.27Kg",
+                "brand": "Aviko",
+                "unit": "2.27kg",
+                "is_multipack": false,
+                "slug": "aviko-7mm-super-crunch-227kg-227kg",
+                "image": "https://media.wegetanystock.co.uk/images/products/F6PzQyU6c0g1jjPx6sQulWtufyhRqwLilUgyHp7L.png?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Aviko Cream Cheese Jalapeno Snacks 1kg",
+                "cleaned_name": "Aviko Cream Cheese Jalapeno Snacks 1Kg",
+                "brand": "Aviko",
+                "unit": "1kg",
+                "is_multipack": false,
+                "slug": "aviko-cream-cheese-jalapeno-snacks-1kg-1kg",
+                "image": "https://www.wegetanystock.com/icons/512.png"
+            },
+            {
+                "original_name": "Aviko Crunch Julienne (7Mm) 2.27kg",
+                "cleaned_name": "Aviko Crunch Julienne (7Mm) 2.27Kg",
+                "brand": "Aviko",
+                "unit": "2.27kg",
+                "is_multipack": false,
+                "slug": "aviko-crunch-julienne-7mm-227kg-227kg",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/8710449937936/1?tr=w-192,h-192"
+            }
+        ]
+    },
+    {
+        "category": "Grocery",
+        "products": [
+            {
+                "original_name": "Heinz Beanz in a Rich Tomato Sauce 6 x 415g",
+                "cleaned_name": "Heinz Beanz In A Rich Tomato Sauce",
+                "brand": "Heinz",
+                "unit": "415g",
+                "is_multipack": true,
+                "slug": "heinz-beanz-in-a-rich-tomato-sauce-415g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5000157026071/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Campbells Condensed Cream of Mushroom Soup 6x295g",
+                "cleaned_name": "Campbells Condensed Cream Of Mushroom Soup",
+                "brand": "Campbells",
+                "unit": "295g",
+                "is_multipack": true,
+                "slug": "campbells-condensed-cream-of-mushroom-soup-295g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/0063211197532/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Oreo O's Cereal PM£3.99 320g",
+                "cleaned_name": "Oreo O'S Cereal 320G",
+                "brand": "Oreo O'S",
+                "unit": "320g",
+                "is_multipack": true,
+                "slug": "oreo-os-cereal-320g-320g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5010029227451/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Colman's English Mustard 150g",
+                "cleaned_name": "Colman'S English Mustard 150G",
+                "brand": "Colman'S",
+                "unit": "150g",
+                "is_multipack": true,
+                "slug": "colmans-english-mustard-150g-150g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/96107775/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Batchelors Cup a Soup Cream of Mushroom with Croutons 4 Sachets 99g",
+                "cleaned_name": "Batchelors Cup A Soup Cream Of Mushroom With Croutons 4 Sachets 99G",
+                "brand": "Batchelors",
+                "unit": "99g",
+                "is_multipack": true,
+                "slug": "batchelors-cup-a-soup-cream-of-mushroom-with-croutons-4-sachets-99g-99g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5000175409030/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Batchelors Cup a Soup Cream of Asparagus with Croutons 4 Sachets 117g",
+                "cleaned_name": "Batchelors Cup A Soup Cream Of Asparagus With Croutons 4 Sachets 117G",
+                "brand": "Batchelors",
+                "unit": "117g",
+                "is_multipack": true,
+                "slug": "batchelors-cup-a-soup-cream-of-asparagus-with-croutons-4-sachets-117g-117g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5000175409061/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Maltesers Hot Chocolate 25g",
+                "cleaned_name": "Maltesers Hot Chocolate 25G",
+                "brand": "Unknown",
+                "unit": "25g",
+                "is_multipack": true,
+                "slug": "maltesers-hot-chocolate-25g-25g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5060122035392/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Hellmann's Garlic & Herb Creamy Sauce 250 ml",
+                "cleaned_name": "Hellmann'S Garlic & Herb Creamy Sauce 250 Ml",
+                "brand": "Unknown",
+                "unit": "250ml",
+                "is_multipack": true,
+                "slug": "hellmanns-garlic-herb-creamy-sauce-250-ml-250ml",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/8712100891908/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Starbucks Instant Caramel Latte 115g",
+                "cleaned_name": "Starbucks Instant Caramel Latte 115G",
+                "brand": "Unknown",
+                "unit": "115g",
+                "is_multipack": true,
+                "slug": "starbucks-instant-caramel-latte-115g-115g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/8445290041302?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Nesquik Banana Flavoured Milkshake Powder 300g Tub",
+                "cleaned_name": "Nesquik Banana Flavoured Milkshake Powder 300G",
+                "brand": "Nesquik",
+                "unit": "300g",
+                "is_multipack": true,
+                "slug": "nesquik-banana-flavoured-milkshake-powder-300g-300g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/7613031513093/913?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Nescafe Cappuccino Unsweetened Taste Instant Coffee Sachets 7 x 14.2g",
+                "cleaned_name": "Nescafe Cappuccino Unsweetened Taste Instant Coffee Sachets",
+                "brand": "Nescafe",
+                "unit": "14.2g",
+                "is_multipack": true,
+                "slug": "nescafe-cappuccino-unsweetened-taste-instant-coffee-sachets-142g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/8445291746060?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Nescafe Double Choc Mocha Instant Coffee Sachets 7 x 20.9g",
+                "cleaned_name": "Nescafe Double Choc Mocha Instant Coffee Sachets",
+                "brand": "Nescafe",
+                "unit": "20.9g",
+                "is_multipack": true,
+                "slug": "nescafe-double-choc-mocha-instant-coffee-sachets-209g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/8445291747142?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Nesquik Strawberry Flavoured Milkshake Powder 300g Tub",
+                "cleaned_name": "Nesquik Strawberry Flavoured Milkshake Powder 300G",
+                "brand": "Nesquik",
+                "unit": "300g",
+                "is_multipack": true,
+                "slug": "nesquik-strawberry-flavoured-milkshake-powder-300g-300g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/7613031513000/913?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Colmans English Mustard Powder Tin 454g",
+                "cleaned_name": "Colmans English Mustard Powder Tin 454G",
+                "brand": "Colmans",
+                "unit": "454g",
+                "is_multipack": true,
+                "slug": "colmans-english-mustard-powder-tin-454g-454g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/667803000806?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Nescafe Caramel Latte Instant Coffee Sachets 7 x 17g",
+                "cleaned_name": "Nescafe Caramel Latte Instant Coffee Sachets",
+                "brand": "Nescafe",
+                "unit": "17g",
+                "is_multipack": true,
+                "slug": "nescafe-caramel-latte-instant-coffee-sachets-17g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/8445291746084?tr=w-192,h-192"
+            }
+        ]
+    },
+    {
+        "category": "Non Foods",
+        "products": [
+            {
+                "original_name": "Olay Total Effects 7 in One Night Moisturiser Overnight 50ml",
+                "cleaned_name": "Olay Total Effects 7 In One Night Moisturiser Overnight 50Ml",
+                "brand": "Olay",
+                "unit": "50ml",
+                "is_multipack": true,
+                "slug": "olay-total-effects-7-in-one-night-moisturiser-overnight-50ml-50ml",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5000174034103?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Olay Total Effects Day & Night Cream Gift Set 2x37ml",
+                "cleaned_name": "Olay Total Effects Day & Night Cream Gift Set",
+                "brand": "Olay",
+                "unit": "37ml",
+                "is_multipack": true,
+                "slug": "olay-total-effects-day-night-cream-gift-set-37ml",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/4084500806450?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Cillit Bang Power Cleaner Black Mould & Mildew Remover Spray 750ml",
+                "cleaned_name": "Cillit Bang Power Cleaner Black Mould & Mildew Remover Spray 750Ml",
+                "brand": "Bang",
+                "unit": "750 ml",
+                "is_multipack": true,
+                "slug": "cillit-bang-power-cleaner-black-mould-mildew-remover-spray-750ml-750-ml",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5011417561713/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Pink Stuff Paste Xtra Large 850g",
+                "cleaned_name": "Pink Stuff Paste Xtra Large 850G",
+                "brand": "Pink Stuff",
+                "unit": "850g",
+                "is_multipack": true,
+                "slug": "pink-stuff-paste-xtra-large-850g-850g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5060033821114?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Pink Stuff The Miracle Laundry Oxi Stain Remover 500ml",
+                "cleaned_name": "Pink Stuff The Miracle Laundry Oxi Stain Remover 500Ml",
+                "brand": "Pink Stuff",
+                "unit": "500ml",
+                "is_multipack": true,
+                "slug": "pink-stuff-the-miracle-laundry-oxi-stain-remover-500ml-500ml",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5060033820186/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Kleenex Balsam Tissues 2 Boxes",
+                "cleaned_name": "Kleenex Balsam Tissues 2",
+                "brand": "Kleenex",
+                "unit": "",
+                "is_multipack": false,
+                "slug": "kleenex-balsam-tissues-2",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5029053569871/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Pink Stuff Trigger Spray Bathroom Foam Cleaner 850ml",
+                "cleaned_name": "Pink Stuff Trigger Spray Bathroom Foam Cleaner 850Ml",
+                "brand": "Pink Stuff",
+                "unit": "850ml",
+                "is_multipack": true,
+                "slug": "pink-stuff-trigger-spray-bathroom-foam-cleaner-850ml-850ml",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5060033822104?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Pink Stuff Trigger Spray Disinfectant Cleaner 850ml",
+                "cleaned_name": "Pink Stuff Trigger Spray Disinfectant Cleaner 850Ml",
+                "brand": "Pink Stuff",
+                "unit": "850ml",
+                "is_multipack": true,
+                "slug": "pink-stuff-trigger-spray-disinfectant-cleaner-850ml-850ml",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5060033822142?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Kleenex Ultra Soft Tissues - Beautifully Soft and Silky Tissues - Twin Pack",
+                "cleaned_name": "Kleenex Ultra Soft Tissues - Beautifully Soft And Silky Tissues - Twin",
+                "brand": "Kleenex",
+                "unit": "",
+                "is_multipack": false,
+                "slug": "kleenex-ultra-soft-tissues---beautifully-soft-and-silky-tissues---twin",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5029053569925?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Kleenex Original Tissues Twin Pk 2X64S",
+                "cleaned_name": "Kleenex Original Tissues Twin 2X64S",
+                "brand": "Kleenex",
+                "unit": "",
+                "is_multipack": false,
+                "slug": "kleenex-original-tissues-twin-2x64s",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5029053578330?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Kleenex® Extra Large Tissues 2 BIG Boxes",
+                "cleaned_name": "Kleenex® Extra Large Tissues 2 Big",
+                "brand": "Kleenex",
+                "unit": "",
+                "is_multipack": false,
+                "slug": "kleenex-extra-large-tissues-2-big",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/5029053570136/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Olay Total Effects 7 in One Day Moisturiser Nourish & Protect SPF15 50ml",
+                "cleaned_name": "Olay Total Effects 7 In One Day Moisturiser Nourish & Protect Spf15 50Ml",
+                "brand": "Olay",
+                "unit": "50ml",
+                "is_multipack": true,
+                "slug": "olay-total-effects-7-in-one-day-moisturiser-nourish-protect-spf15-50ml-50ml",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5000174163018?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Kleenex Balsam Extra Large Tissues 40S",
+                "cleaned_name": "Kleenex Balsam Extra Large Tissues 40S",
+                "brand": "Kleenex",
+                "unit": "",
+                "is_multipack": false,
+                "slug": "kleenex-balsam-extra-large-tissues-40s",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5029053581514?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Kleenex Extra Large Tissues Even Bigger Tissues for When You Need a Little Extra Compact Twin Pack",
+                "cleaned_name": "Kleenex Extra Large Tissues Even Bigger Tissues For When You Need A Little Extra Compact Twin",
+                "brand": "Kleenex",
+                "unit": "",
+                "is_multipack": false,
+                "slug": "kleenex-extra-large-tissues-even-bigger-tissues-for-when-you-need-a-little-extra-compact-twin",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5029053565873?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Kleenex Ultrasoft XL Compact 40s",
+                "cleaned_name": "Kleenex Ultrasoft Xl Compact 40S",
+                "brand": "Kleenex",
+                "unit": "",
+                "is_multipack": false,
+                "slug": "kleenex-ultrasoft-xl-compact-40s",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5029053581491?tr=w-192,h-192"
+            }
+        ]
+    },
+    {
+        "category": "Pet Care",
+        "products": [
+            {
+                "original_name": "Sheba Fine Flakes Cat Food Pouches Poultry in Jelly Mega Pack 40 x 85g",
+                "cleaned_name": "Sheba Fine Flakes Cat Food Poultry In Jelly Mega",
+                "brand": "Sheba",
+                "unit": "85g",
+                "is_multipack": true,
+                "slug": "sheba-fine-flakes-cat-food-poultry-in-jelly-mega-85g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/4770608255862?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Gourmet Perle Connoisseur's Collection Mini Fillets in Gravy Pm £5.25 12 x 85g",
+                "cleaned_name": "Gourmet Perle Connoisseur'S Collection Mini Fillets In Gravy",
+                "brand": "Gourmet",
+                "unit": "85g",
+                "is_multipack": true,
+                "slug": "gourmet-perle-connoisseurs-collection-mini-fillets-in-gravy-85g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/8445291388215?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Sheba Fine Flakes Cat Food Pouches Fish in Jelly Mega Pack 40 x 85g",
+                "cleaned_name": "Sheba Fine Flakes Cat Food Fish In Jelly Mega",
+                "brand": "Sheba",
+                "unit": "85g",
+                "is_multipack": true,
+                "slug": "sheba-fine-flakes-cat-food-fish-in-jelly-mega-85g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/4770608255855?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Whiskas 1+ Poultry Feasts Adult Wet Cat Food Pouches in Jelly 40 x 85g",
+                "cleaned_name": "Whiskas 1+ Poultry Feasts Adult Wet Cat Food In Jelly",
+                "brand": "Whiskas",
+                "unit": "85g",
+                "is_multipack": true,
+                "slug": "whiskas-1-poultry-feasts-adult-wet-cat-food-in-jelly-85g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/3065890155046?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Whiskas Kitten Poultry Feasts Wet Cat Food Pouches in Jelly 40 x 85g",
+                "cleaned_name": "Whiskas Kitten Poultry Feasts Wet Cat Food In Jelly",
+                "brand": "Whiskas",
+                "unit": "85g",
+                "is_multipack": true,
+                "slug": "whiskas-kitten-poultry-feasts-wet-cat-food-in-jelly-85g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5000166158893?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Gourmet Perle Ocean Collection in Gravy Wet Cat Food PMP £5.25 12x85g",
+                "cleaned_name": "Gourmet Perle Ocean Collection In Gravy Wet Cat Food",
+                "brand": "Gourmet",
+                "unit": "85g",
+                "is_multipack": true,
+                "slug": "gourmet-perle-ocean-collection-in-gravy-wet-cat-food-85g",
+                "image": "https://media.wegetanystock.co.uk/images/products/docZVB08FVloZb6lEaLNcHcoxW2h3IJMJzSFOXae.jpg?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Whiskas 1+ Fish Favourites Adult Wet Cat Food Pouches in Jelly 40 x 85g",
+                "cleaned_name": "Whiskas 1+ Fish Favourites Adult Wet Cat Food In Jelly",
+                "brand": "Whiskas",
+                "unit": "85g",
+                "is_multipack": true,
+                "slug": "whiskas-1-fish-favourites-adult-wet-cat-food-in-jelly-85g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/5900951303159?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Purina ONE Adult Cat Food Mini Fillets in Gravy 40 x 85g",
+                "cleaned_name": "Purina One Adult Cat Food Mini Fillets In Gravy",
+                "brand": "Purina",
+                "unit": "85g",
+                "is_multipack": true,
+                "slug": "purina-one-adult-cat-food-mini-fillets-in-gravy-85g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/7613036631792/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Sheb Fresh & Fine Adult Wet Cat Food Beef & Chicken Gravy Pouchesa 6 x 50g",
+                "cleaned_name": "Sheb Fresh & Fine Adult Wet Cat Food Beef & Chicken Gravy Pouchesa",
+                "brand": "Unknown",
+                "unit": "50g",
+                "is_multipack": true,
+                "slug": "sheb-fresh-fine-adult-wet-cat-food-beef-chicken-gravy-pouchesa-50g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/4770608265991?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Sheba Fresh & Fine Adult Wet Cat Food Chicken & Turkey Jelly Pouches 6x50g",
+                "cleaned_name": "Sheba Fresh & Fine Adult Wet Cat Food Chicken & Turkey Jelly",
+                "brand": "Sheba",
+                "unit": "50g",
+                "is_multipack": true,
+                "slug": "sheba-fresh-fine-adult-wet-cat-food-chicken-turkey-jelly-50g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/4770608266196?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Whiskas 1+ Cat Pouches Duo Surf & Turf In Jelly 40X85G",
+                "cleaned_name": "Whiskas 1+ Cat Duo Surf & Turf In Jelly",
+                "brand": "Whiskas",
+                "unit": "85g",
+                "is_multipack": true,
+                "slug": "whiskas-1-cat-duo-surf-turf-in-jelly-85g",
+                "image": "https://media.wegetanystock.co.uk/old_images/jpg/4008429156632?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Felix Crispies Treats Flavoured with Beef and Chicken 45g",
+                "cleaned_name": "Felix Crispies Treats Flavoured With Beef And Chicken 45G",
+                "brand": "Felix",
+                "unit": "45g",
+                "is_multipack": true,
+                "slug": "felix-crispies-treats-flavoured-with-beef-and-chicken-45g-45g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/7613034002969/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Felix Crispies Flavoured with Salmon and Trout 45g",
+                "cleaned_name": "Felix Crispies Flavoured With Salmon And Trout 45G",
+                "brand": "Felix",
+                "unit": "45g",
+                "is_multipack": true,
+                "slug": "felix-crispies-flavoured-with-salmon-and-trout-45g-45g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/7613034004017/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Felix Goody Bag Cat Treats Original 60g",
+                "cleaned_name": "Felix Goody Cat Treats Original 60G",
+                "brand": "Felix",
+                "unit": "60g",
+                "is_multipack": true,
+                "slug": "felix-goody-cat-treats-original-60g-60g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/7613033733642/1?tr=w-192,h-192"
+            },
+            {
+                "original_name": "Gourmet Mon Petit Cat Food Pouches Chicken Pmp £2.45 6X50g",
+                "cleaned_name": "Gourmet Mon Petit Cat Food Chicken",
+                "brand": "Gourmet",
+                "unit": "50g",
+                "is_multipack": true,
+                "slug": "gourmet-mon-petit-cat-food-chicken-50g",
+                "image": "https://media.wegetanystock.co.uk/brandbank/images/8445290938725/1?tr=w-192,h-192"
+            }
+        ]
+    }
+]
